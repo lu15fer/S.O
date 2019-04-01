@@ -1,0 +1,24 @@
+1) ¿Que es un sistema operativo?
+Es un software que se encarga de administrar los recursos de hardware y software, controla todos los archivos, dispositivos, secciones de memoria y tiempos de procesamiento en la computadora, controla quién y cómo se utiliza el sistema
+
+2) Componentes funcionales de un sistema operativo
+ Existen 4 componentes básicos que todo sistema operativo debe tener: Administrador de memoria, administrador de procesos, administrador de dispositivos y el administrador de archivos. Adicional a esto se debe tener una interfaz de usuario. Los sistemas operativos actuales adicionalmente tienen un administrador de red. Los 5 administradores son los elementos básicos que todo sistema operativo actual debe tener y todos interactúan con el usuario a través de la interfaz de usuario.
+
+3) Cual es el objetivo principal del sistema operativo
+Administrar los recursos de un sistema mediante diferentes administradores para asegurar una correcta interacción con el usuario
+
+4) que recursos administra el sistema operativo
+Administra redes, memoria, procesos, dispositivos y archivos
+
+5) que es el kernel	
+Es la parte principal de un sistema operativo, permanece dentro de la memoria principal (RAM) y se le adjudican las funciones más esenciales del Sistema Operativo tales como administración de la memoria principal y acceso a discos
+
+6) que es una interrupcion? Describa algun tipo
+
+7) Que es la memoria cache
+8) Que es un sistema de archivos
+9) Que es un proceso
+10)Cuales son los estados de un proceso
+11)Clasificacion de la memoria por su velocidad
+
+
