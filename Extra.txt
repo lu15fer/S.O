@@ -14,11 +14,33 @@ Administra redes, memoria, procesos, dispositivos y archivos
 Es la parte principal de un sistema operativo, permanece dentro de la memoria principal (RAM) y se le adjudican las funciones más esenciales del Sistema Operativo tales como administración de la memoria principal y acceso a discos
 
 6) que es una interrupcion? Describa algun tipo
+Es una señal que utiliza el S.O. para verificar que un proceso ya fue terminado. Un tipo es la interrupción que dan los dispositivos de E/S para indicar al S.O. que un proceso ha terminado, ya sea lectura o escritura de datos. Este sistema sirve para que el S.O. no se mantenga ocupado todo el tiempo  con un dispositivo de E/S. 
 
 7) Que es la memoria cache
+La memoria cache es un tipo de memoria que es más rápida que la memoria principal. Es utilizada por procesos que son frecuentemente utilizados y ayuda a que la velocidad de procesamiento sea mucho mayor ya que tiende a ser de 5 a 10 veces más rápida que la memoria principal, de esta forma el CPU puede ejecutar instrucciones de manera más rápida.
+
 8) Que es un sistema de archivos
+Es un recurso utilizado por el administrador de archivos el cual sirve para localizar la dirección de memoria en la que los archivos se encuentran almacenados.
+
 9) Que es un proceso
+Un proceso es una serie de pasos que se deben seguir para la realizacion de un objetivo en concreto
+
 10)Cuales son los estados de un proceso
+Los estados de un proceso son: HOLD, READY, RUNNING, WAITING y FINISHED
+
+Hold, es un estado en el cual el proceso fue aceptado por el sistema y es colocado en una lista de espera, en este estado se le considera la prioridad requerida, dispositivos de E/S requeridos y memoria requerida, es colocado entonces en una tabla para que se decida cual proceso será en siguiente en ejecutarse
+
+Ready, es un estado en el cual el proceso está listo para ejecutarse pero se encuentra esperando al CPU
+
+Running, es un estado en el cual la tarea se encuentra en proceso
+
+Waiting, es un estado en el cual la tarea no puede continuar hasta que otro proceso o una solicitud de E/S haya terminado
+
+Finished es un estado en el que el proceso ya fue completado y es regresado al usuario
+
+
 11)Clasificacion de la memoria por su velocidad
+
+
 
 
