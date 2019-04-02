@@ -1,0 +1,43 @@
+1) ¿Que es un sistema operativo?
+Es un software que se encarga de administrar y comunicar los recursos del hardware con el software , controla todos los archivos, dispositivos, secciones de memoria y tiempos de procesamiento en la computadora, controla quién y cómo se utiliza el sistema
+
+2) Componentes funcionales de un sistema operativo
+ Existen 4 componentes básicos que todo sistema operativo debe tener: Administrador de memoria, administrador de procesos, administrador de dispositivos de entrada y salida y el administrador de archivos. Adicional a esto se debe tener una interfaz de usuario. Los sistemas operativos actuales adicionalmente tienen un administrador de red. Los 5 administradores son los elementos básicos que todo sistema operativo moderno debe tener y todos interactúan con el usuario a través de la interfaz de usuario.
+
+3) Cual es el objetivo principal del sistema operativo
+Administrar los recursos de un sistema mediante diferentes administradores para asegurar una correcta y interacción con el usuario
+
+4) que recursos administra el sistema operativo
+Administra redes, memoria, procesos, dispositivos I/O y archivos
+
+5) que es el kernel	
+Es el nucleo de un sistema operativo, permanece dentro de la memoria principal (RAM) y se encarga de la comunicacion con el hardware haciendo la traduccion de comandos o instrucciones del sistema a señales digitales para el hardware
+
+6) que es una interrupcion? Describa algun tipo
+Es una señal que es enviada al procesador para modificar el estado del proceso actual. 
+Un tipo es la interrupción que dan los dispositivos de E/S para indicar al S.O. que un proceso ha terminado, ya sea lectura o escritura de datos. Este sistema sirve para que el S.O. no se mantenga ocupado todo el tiempo  con un dispositivo de E/S. 
+
+7) Que es la memoria cache
+ Es la unidad de memoria que utiliza el procesador de forma temporal en la ejecucion de procesos que son frecuentemente utilizados
+
+8) Que es un sistema de archivos
+Es un auxiliar del administrador de archivos que cuenta con las direcciones de memoria para localizarlos.
+
+9) Que es un proceso
+Es la ejecucion de un programa, cuando esta cargado en memoria principal  
+
+10)Cuales son los estados de un proceso
+Los estados de un proceso son: HOLD, READY, RUNNING, WAITING y FINISHED
+
+Hold, es un estado en el cual el proceso fue aceptado por el sistema y es colocado en una lista de espera, en este estado se le considera la prioridad requerida, dispositivos de E/S requeridos y memoria requerida, es colocado entonces en una tabla para que se decida cual proceso será en siguiente en ejecutarse
+
+Ready, es un estado en el cual el proceso está listo para ejecutarse pero se encuentra esperando al CPU
+
+Running, es un estado en el cual la tarea se encuentra en proceso
+
+Waiting, es un estado en el cual la tarea no puede continuar hasta que otro proceso o una solicitud de E/S haya terminado
+
+Finished es un estado en el que el proceso ya fue completado y es regresado al usuario
+
+
+11)Clasificacion de la memoria por su velocidad
